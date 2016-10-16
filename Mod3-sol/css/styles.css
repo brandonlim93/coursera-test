@@ -1,0 +1,52 @@
+body {
+	font-size:16px;
+}
+
+.navbar-brand {
+	height:auto;
+	padding: 0px;
+}
+
+#nav-list li {
+	text-align:center;
+}
+
+.navbar{
+	background-color:#bfbfbf;
+}
+
+#nav-list {
+	padding:20px 0 20px 0;
+	margin:0;
+}
+
+#main-content .container-fluid {
+	background-color:#808080;
+}
+
+#chicken p {
+	font-size:1.5em;
+}
+
+h2 {
+	margin-bottom:20px;
+}
+
+.navbar-toggle {
+	margin-top:18px;
+}
+
+#main-content .container-fluid {
+	margin-left:20px;
+	margin-right:20px;
+}
+
+#collapsable-nav {
+	background-color:#e6e6e6;
+}
+
+@media (min-width:768px) {
+	#collapsable-nav {
+	background-color:#bfbfbf;
+	}
+}
